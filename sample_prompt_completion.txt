@@ -1,0 +1,255 @@
+The text below represents a table with three columns, where the third column is optional. There is also some unrelated text that should be removed. Please output the following table as a csv. 
+
+Raw Table:
+Food/Fluid
+Legal / Illegal
+Note
+Acacia
+Illegal
+This soluble fiber is gum acacia. Gums are starches and are not SCD legal.
+Faba beans
+Illegal
+Also known as broad beans.
+Fennel
+Legal
+Fenugreek
+Illegal
+Feta Cheese
+Legal; see note
+Can be tried after six months of healing.
+The list of foods that are allowed (legal) and not allowed (illegal) while following the Specific Carbohydrate DietTM (SCDTM), as outlined in the book Breaking the Vicious CycleTM. 10
+      Food/Fluid
+Legal / Illegal
+Note
+Figs
+Legal
+Filberts (hazelnuts)
+Legal
+Nuts sold in mixtures are not allowed, as most are roasted with a starch coating.
+Fish
+Legal
+Fresh and frozen are allowed as long as nothing has been added during processing; check the labels carefully.
+Flaxseed
+Illegal
+Flax seeds contain lignin and are not permissible in any form.
+Flaxseed oil
+Legal
+Flax seed oil is extremely unstable and goes rancid (oxidizes) very easily, even when refrigerated.
+Flour
+Illegal
+FOS
+Illegal
+Also known as fructooligosaccharides.
+Frozen Orange Juice
+Illegal
+Frozen orange juice is almost always made from concentrate, which is illegal because additives such as sugar are typically added when it is reconstituted. Not all additives are listed on the label.
+Fructose (granulated)
+Illegal
+Granulated fructose (or even liquid) that is sold as fructose has a mixture of other trisaccharides, etc. It is extracted from corn, and processing can include other illegal ingredients.
+Fruits (canned)
+Legal; see note
+Fruits canned in their own juice are allowed.
+Garbanzo beans
+Illegal
+Garfava flour
+Illegal
+Made from two types of beans, Garbanzo beans and Fava beans, neither are SCD legal.
+Garlic
+Legal
+Use fresh. Garlic powders have starch added as anti-caking agents. You may also make your own garlic powder from fresh garlic by dehydrating it and grinding it yourself.
+Guar Gum
+Illegal
+Gelatin (unflavored)
+Legal
+It is a denatured protein that has lost its tertiary structure, although it is not the best protein.
+                The list of foods that are allowed (legal) and not allowed (illegal) while following the Specific Carbohydrate DietTM (SCDTM), as outlined in the book Breaking the Vicious CycleTM. 11
+
+      Food/Fluid
+Legal / Illegal
+Note
+Ghee
+Legal
+It's clarified butter
+Gin
+Legal
+Gjetost cheese
+Illegal
+Glucose candy
+Illegal
+Contains granulated glucose and is known to contain other sugars in addition to glucose.
+Glycerin/Glycerol
+Legal
+It is considered to belong to the fat family and is not a sugar.
+Goatein
+Illegal
+Protein powders that contain Bifidobacteria Bifidum are not recommended as they are generally oxidized cholesterol.
+Gorgonzola cheese
+Legal
+Gouda cheese
+Legal
+Granulated glucose
+Illegal
+It is known to contain other sugars in addition to glucose.
+Grape juice
+Legal
+White or dark grape juice is allowed provided you have verified with the manufacturer through writing/email to make sure there are no added sugars or other additives. Avoid frozen grape juice as it usually has sugar added. Juice should be diluted with water before drinking.
+Grapefruit
+Legal
+Grapefruit juice
+Legal; see note
+Only legal if fresh. Frozen or canned grapefruit juice is not allowed as it almost always contains added sugars. Juice should be diluted with water before drinking.
+Grapes
+Legal
+Grapeseed oil
+Legal
+Green tea
+Legal
+Limit to 2 cups per day.
+Gruyere cheese
+Legal
+Gums
+Illegal
+All gums are illegal.
+                  The list of foods that are allowed (legal) and not allowed (illegal) while following the Specific Carbohydrate DietTM (SCDTM), as outlined in the book Breaking the Vicious CycleTM. 12
+
+      Food/Fluid
+Legal / Illegal
+Note
+Haricot beans (also called Navy beans)
+Legal
+Dried legumes must be prepared according to the instructions in the book, Breaking the Vicious Cycle.
+Havarti cheese
+Legal
+Hazelnuts (filberts)
+Legal
+Nuts sold in mixtures are not allowed, as most are roasted with a starch coating. Nuts should only be used as nut flour, in recipes, until diarrhea has subsided.
+Homemade yogurt
+Legal
+Must be incubated for 24 hours as explained in the book, Breaking the Vicious Cycle.
+Honey
+Legal
+Read the label to be assured it states 100% pure honey. Pasteurization is allowed.
+Horseradish sauce
+Legal
+Homemade or manufactured only if you know there are no added illegals. Most store bought horseradish contains sugar.
+Hot dogs
+IIlegal; see note
+Commercial hotdogs are full of sugar and other additives. Only permitted if homemade so you know the ingredients or if you have written/email assurance from the manufacturer that they are all meat.
+Hydrolyzed Protein
+Illegal
+This is another term for MSG. Regardless of whether it is SCD legal or not, try to avoid it. MSG can be a potent neurotoxin.
+Ice cream
+Illegal
+Commercially prepared ice cream is not allowed, however, there are many wonderful recipes for homemade ice cream.
+Inositol
+Illegal
+Inositol is a sugar alcohol. Sugar alcohols will
+feed bacteria and that is something we do not want. Sugar alcohols generally cause diarrhea, but small amounts in supplements are allowed.
+Inulin
+Illegal
+Inulin is a FOS and is illegal.
+Iron supplements
+Illegal
+Please do not get vitamins with iron; they encourage all kinds of infections especially in the gut, and iron has had much research done on it re other diseases. No oral iron if you can help it. Just eat the liver pate and if you like liver, eat it at least once a week.
+             The list of foods that are allowed (legal) and not allowed (illegal) while following the Specific Carbohydrate DietTM (SCDTM), as outlined in the book Breaking the Vicious CycleTM. 13
+
+      Food/Fluid
+Legal / Illegal
+Note
+Jaggery (gur)
+Illegal
+Jalapenos
+Legal
+Jicama
+Illegal
+Juice from concentrate
+Illegal
+Juice from concentrate is normally illegal because when it is reconstituted sugar or other ingredients may be added. Often these additives are not listed on the label.
+Kale
+Legal
+Kefir
+Illegal
+Ketchup
+Legal; see note
+Name-brand commercial ketchup is not legal as it contains sugar. However, you can make your own legal ketchup. See the gourmet section of the book, Breaking the Vicious Cycle. If you find what seems to be a legal manufactured ketchup, verify through writing/email with the manufacturer that there are no illegal ingredients.
+Kidney beans
+Legal
+May be tried when symptom free. Dried legumes must be prepared according to the instructions in the book, Breaking the Vicious Cycle.
+Kimchi
+Legal
+Traditional Korean fermented cabbage.
+Kiwi fruit
+Legal
+Kohlrabi
+Illegal
+Kudzu (or kuzu)
+Illegal
+It is a mucilaginous herb.
+Kumquats
+Legal
+
+CSV:
+Food/Fluid,Legal / Illegal,Note
+Acacia,Illegal,This soluble fiber is gum acacia. Gums are starches and are not SCD legal.
+Faba beans,Illegal,Also known as broad beans.
+Fennel,Legal,
+Fenugreek,Illegal,
+Feta Cheese,Legal; see note,Can be tried after six months of healing.
+Figs,Legal,
+Filberts (hazelnuts),Legal,Nuts sold in mixtures are not allowed, as most are roasted with a starch coating.
+Fish,Legal,Fresh and frozen are allowed as long as nothing has been added during processing; check the labels carefully.
+Flaxseed,Illegal,Flax seeds contain lignin and are not permissible in any form.
+Flaxseed oil,Legal,Flax seed oil is extremely unstable and goes rancid (oxidizes) very easily, even when refrigerated.
+Flour,Illegal,
+FOS,Illegal,Also known as fructooligosaccharides.
+Frozen Orange Juice,Illegal,Frozen orange juice is almost always made from concentrate, which is illegal because additives such as sugar are typically added when it is reconstituted. Not all additives are listed on the label.
+Fructose (granulated),Illegal,Granulated fructose (or even liquid) that is sold as fructose has a mixture of other trisaccharides, etc. It is extracted from corn, and processing can include other illegal ingredients.
+Fruits (canned),Legal; see note,Fruits canned in their own juice are allowed.
+Garbanzo beans,Illegal,
+Garfava flour,Illegal,Made from two types of beans, Garbanzo beans and Fava beans, neither are SCD legal.
+Garlic,Legal,Use fresh. Garlic powders have starch added as anti-caking agents. You may also make your own garlic powder from fresh garlic by dehydrating it and grinding it yourself.
+Guar Gum,Illegal,
+Gelatin (unflavored),Legal,It is a denatured protein that has lost its tertiary structure, although it is not the best protein.
+Ghee,Legal,It's clarified butter
+Gin,Legal,
+Gjetost cheese,Illegal,
+Glucose candy,Illegal,Contains granulated glucose and is known to contain other sugars in addition to glucose.
+Glycerin/Glycerol,Legal,It is considered to belong to the fat family and is not a sugar.
+Goatein,Illegal,Protein powders that contain Bifidobacteria Bifidum are not recommended as they are generally oxidized cholesterol.
+Gorgonzola cheese,Legal,
+Gouda cheese,Legal,
+Granulated glucose,Illegal,It is known to contain other sugars in addition to glucose.
+Grape juice,Legal,White or dark grape juice is allowed provided you have verified with the manufacturer through writing/email to make sure there are no added sugars or other additives. Avoid frozen grape juice as it usually has sugar added. Juice should be diluted with water before drinking.
+Grapefruit,Legal,
+Grapefruit juice,Legal; see note,Only legal if fresh. Frozen or canned grapefruit juice is not allowed as it almost always contains added sugars. Juice should be diluted with water before drinking.
+Grapes,Legal,
+Grapeseed oil,Legal,
+Green tea,Legal,Limit to 2 cups per day.
+Gruyere cheese,Legal,
+Gums,Illegal,All gums are illegal.
+Haricot beans (also called Navy beans),Legal,Dried legumes must be prepared according to the instructions in the book, Breaking the Vicious Cycle.
+Havarti cheese,Legal,
+Hazelnuts (filberts),Legal,Nuts sold in mixtures are not allowed, as most are roasted with a starch coating. Nuts should only be used as nut flour, in recipes, until diarrhea has subsided.
+Homemade yogurt,Legal,Must be incubated for 24 hours as explained in the book, Breaking the Vicious Cycle.
+Honey,Legal,Read the label to be assured it states 100% pure honey. Pasteurization is allowed.
+Horseradish sauce,Legal,Homemade or manufactured only if you know there are no added illegals. Most store bought horseradish contains sugar.
+Hot dogs,IIlegal; see note,Commercial hotdogs are full of sugar and other additives. Only permitted if homemade so you know the ingredients or if you have written/email assurance from the manufacturer that they are all meat.
+Hydrolyzed Protein,Illegal,This is another term for MSG. Regardless of whether it is SCD legal or not, try to avoid it. MSG can be a potent neurotoxin.
+Ice cream,Illegal,Commercially prepared ice cream is not allowed, however, there are many wonderful recipes for homemade ice cream.
+Inositol,Illegal,Inositol is a sugar alcohol. Sugar alcohols will feed bacteria and that is something we do not want. Sugar alcohols generally cause diarrhea, but small amounts in supplements are allowed.
+Inulin,Illegal,Inulin is a FOS and is illegal.
+Iron supplements,Illegal,Please do not get vitamins with iron; they encourage all kinds of infections especially in the gut, and iron has had much research done on it re other diseases. No oral iron if you can help it. Just eat the liver pate and if you like liver, eat it at least once a week.
+Jaggery (gur),Illegal,
+Jalapenos,Legal,
+Jicama,Illegal,
+Juice from concentrate,Illegal,
+Juice from concentrate is normally illegal because when it is reconstituted sugar or other ingredients may be added. Often these additives are not listed on the label.
+Kale,Legal,
+Kefir,Illegal,
+Ketchup,Legal; see note,Name-brand commercial ketchup is not legal as it contains sugar. However, you can make your own legal ketchup. See the gourmet section of the book, Breaking the Vicious Cycle. If you find what seems to be a legal manufactured ketchup, verify through writing/email with the manufacturer that there are no illegal ingredients.
+Kidney beans,Legal,May be tried when symptom free. Dried legumes must be prepared according to the instructions in the book, Breaking the Vicious Cycle.
+Kimchi,Legal,Traditional Korean fermented cabbage.
+Kiwi fruit,Legal,
+Kohlrabi,Illegal,
+Kudzu (or kuzu),Illegal,It is a mucilaginous herb.
+Kumquats,Legal,
